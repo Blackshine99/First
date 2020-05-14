@@ -1,4 +1,4 @@
-# MSTC-Data-Science-Practice-tasks
+# MSTC_DataScience_Tasks
 
 This repo comprises of 2 types of tasks:
 
